@@ -6,3 +6,4 @@ Line 2
 
 Change after squash and merge
 
+Line 1.1
