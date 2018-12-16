@@ -1,1 +1,3 @@
 A file to add into amended commit.
+
+Line 1
