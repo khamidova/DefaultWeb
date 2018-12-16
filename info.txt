@@ -4,3 +4,5 @@ Commit #1 during squash and merge
 
 Commit #2 during squash and merge
 
+Commit #3 during squash and merge
+
