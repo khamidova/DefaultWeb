@@ -16,3 +16,5 @@ Another developer makes changes
 
 Rebase 1
 
+Rebase 2
+
