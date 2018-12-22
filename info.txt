@@ -13,3 +13,6 @@ Line 1.2
 Line 1.3
 
 Another developer makes changes
+
+Rebase 1
+
