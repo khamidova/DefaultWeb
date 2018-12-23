@@ -18,3 +18,4 @@ Rebase 1
 
 Rebase 2
 
+This line is absolutely important.
