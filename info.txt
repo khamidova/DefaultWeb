@@ -19,3 +19,8 @@ Rebase 1
 Rebase 2
 
 This line is absolutely important.
+
+Cherry 1
+
+Cherry 2
+
